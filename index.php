@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Mail Form | Форма отправки</title>
-		<script src='//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=4.8.4' type='text/javascript'></script>
+		<script src='/form/js/jquery.js'></script><!-- Edit URL Here -->
 		<script src="/form/js/scripts.js"></script><!-- Edit URL Here -->
 		<style>
 			.msg{
